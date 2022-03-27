@@ -1,0 +1,15 @@
+C:\Users\alexr\source\repos\Denis\Denis\bin\Debug\net6.0\Denis.exe
+C:\Users\alexr\source\repos\Denis\Denis\bin\Debug\net6.0\Denis.deps.json
+C:\Users\alexr\source\repos\Denis\Denis\bin\Debug\net6.0\Denis.runtimeconfig.json
+C:\Users\alexr\source\repos\Denis\Denis\bin\Debug\net6.0\Denis.dll
+C:\Users\alexr\source\repos\Denis\Denis\bin\Debug\net6.0\Denis.pdb
+C:\Users\alexr\source\repos\Denis\Denis\obj\Debug\net6.0\Denis.csproj.AssemblyReference.cache
+C:\Users\alexr\source\repos\Denis\Denis\obj\Debug\net6.0\Denis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexr\source\repos\Denis\Denis\obj\Debug\net6.0\Denis.AssemblyInfoInputs.cache
+C:\Users\alexr\source\repos\Denis\Denis\obj\Debug\net6.0\Denis.AssemblyInfo.cs
+C:\Users\alexr\source\repos\Denis\Denis\obj\Debug\net6.0\Denis.csproj.CoreCompileInputs.cache
+C:\Users\alexr\source\repos\Denis\Denis\obj\Debug\net6.0\Denis.dll
+C:\Users\alexr\source\repos\Denis\Denis\obj\Debug\net6.0\refint\Denis.dll
+C:\Users\alexr\source\repos\Denis\Denis\obj\Debug\net6.0\Denis.pdb
+C:\Users\alexr\source\repos\Denis\Denis\obj\Debug\net6.0\Denis.genruntimeconfig.cache
+C:\Users\alexr\source\repos\Denis\Denis\obj\Debug\net6.0\ref\Denis.dll
